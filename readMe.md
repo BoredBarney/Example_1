@@ -1,0 +1,3 @@
+- Link Loom video
+- HTML , CSS and JS
+- Information what the project
